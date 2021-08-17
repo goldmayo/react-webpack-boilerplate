@@ -26,9 +26,6 @@ module.exports = {
         use: [
           {
             loader: "babel-loader",
-            options: {
-              plugins: ["react-refresh/babel"],
-            },
           },
         ],
       },
