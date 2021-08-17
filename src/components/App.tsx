@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "./styles.css";
-import WebpackLogo from "./images/webpacklogo.svg";
-import ReactLogo from "./images/reactlogo.png";
+import "../styles.css";
+import WebpackLogo from "../images/webpacklogo.svg";
+import ReactLogo from "../images/reactlogo.png";
 import ClickCounter from "./ClickCounter";
 
 const App = () => {
